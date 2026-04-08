@@ -14,9 +14,11 @@
 
 <p align="center">
   <a href="https://www.openclawself.com/download">
-    <img src="https://img.shields.io/badge/⬇️%20前往官网下载-立即获取-blue?style=for-the-badge" alt="前往官网下载"/>
+    <img src="https://img.shields.io/badge/⬇️%20点击下载%20OpenClaw%20独立版-立即前往官网-blue?style=for-the-badge&logo=github&logoColor=white" alt="点击下载 OpenClaw 独立版"/>
   </a>
 </p>
+
+---
 
 ---
 
