@@ -12,6 +12,12 @@
   <a href="#-商务合作">🤝 合作咨询</a>
 </p>
 
+<p align="center">
+  <a href="https://www.openclawself.com/download">
+    <img src="https://img.shields.io/badge/⬇️%20前往官网下载-立即获取-blue?style=for-the-badge" alt="前往官网下载"/>
+  </a>
+</p>
+
 ---
 
 ## ✨ 核心特性
@@ -29,6 +35,12 @@
 ## 🌐 官方网站
 
 **https://www.openclawself.com**
+
+<p align="center">
+  <a href="https://www.openclawself.com/download" style="display:inline-block;padding:12px 24px;background:#2563eb;color:#fff;border-radius:6px;text-decoration:none;font-weight:bold;">
+    ⬇️ 前往官网下载最新版本
+  </a>
+</p>
 
 访问官网获取：📖 文档教程 · 🎬 视频演示 · 💾 版本下载 · 🆘 常见问题
 
